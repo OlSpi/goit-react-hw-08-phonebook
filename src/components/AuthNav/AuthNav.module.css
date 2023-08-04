@@ -1,0 +1,18 @@
+.auth-nav {
+  display: flex;
+  gap: 20px;
+}
+
+.auth-nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  padding: 8px;
+  border: 1px solid white;
+  border-radius: 4px;
+}
+
+.auth-nav a:hover {
+  background-color: white;
+  color: #4caaaf;
+}

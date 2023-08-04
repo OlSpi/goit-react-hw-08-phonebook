@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  background-color: #4caaaf;
+  color: white;
+  border-radius: 2px;
+}
+
+/* Optional: Add media query to adjust styles for smaller screens */
+/* @media screen and (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+} */
